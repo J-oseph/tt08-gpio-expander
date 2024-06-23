@@ -1,6 +1,6 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# I2C GPIO Expander 
+# GPIO Expander 
 
 Read or write from GPIO pins over UART.
 
