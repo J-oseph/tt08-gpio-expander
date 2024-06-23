@@ -2,7 +2,7 @@
 
 # I2C GPIO Expander 
 
-Read or write from GPIO pins using I2C. Inspired by ICs such as the MCP23017 or PCA9536.
+Read or write from GPIO pins over UART.
 
 - [Read the documentation for project](docs/info.md)
 
