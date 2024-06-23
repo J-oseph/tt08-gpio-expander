@@ -1,6 +1,8 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Tiny Tapeout Verilog Project Template
+# I2C GPIO Expander 
+
+Read or write from GPIO pins using I2C. Inspired by ICs such as the MCP23017 or PCA9536.
 
 - [Read the documentation for project](docs/info.md)
 
